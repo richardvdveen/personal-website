@@ -10,7 +10,7 @@ import ICON from "../src/assets/terminal.ico"
 
 const App = () => {
   return (
-    <>
+    <div className="app">
         <Favicon url={ICON} />
         <Header />
         <About />
@@ -18,7 +18,7 @@ const App = () => {
         <Experience />
         <Contact />
         <Footer />
-    </>
+    </div>
 )
 }
 

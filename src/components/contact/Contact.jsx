@@ -1,7 +1,6 @@
 import React from 'react'
 import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
-import {BsWhatsapp} from 'react-icons/bs'
 import {FiPhoneCall} from 'react-icons/fi'
 
 const Contact = () => {

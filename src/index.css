@@ -10,6 +10,10 @@
     text-decoration: none;
 }
 
+.app { 
+    display: none;
+}
+
 :root {
     --color-bg: #163832;
     --color-bg-variant: #235347;
@@ -95,7 +99,7 @@ a:hover {
 .btn:hover {
     background: var(--color-white);
     color: var(--color-bg);
-    border-color: transparent;
+    border-color: var(--color-bg);
 }
 
 .btn-primary {
