@@ -12,10 +12,14 @@ const About = () => {
         
         <article className="about__text">
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint delectus, et beatae suscipit sequi atque omnis. Recusandae odio quo, error illo quos provident nulla quam, nostrum quis, magnam voluptatibus deserunt.
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est, ad aperiam voluptatibus non quibusdam sint optio a quaerat perferendis deserunt. Autem quis fugiat nisi vitae, non quaerat architecto itaque velit?
-          
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate ducimus a est commodi, dolores consequuntur officiis voluptates molestias dolorem illo odio nihil inventore tempora corrupti ea architecto minima repellat ipsa?
+            Hi! I am Richard, a freelance Software, Cloud & Data Engineer based in the Netherlands. I help people and organizations build modern and maintainable (cloud) solutions.
+          </p>
+          <br/>
+          <p>
+            Do you need something build or simply want to chat about possibilities?
+          </p>
+          <p>
+            Reach out by calling me or send me an email.
           </p>
           <a href='#contact' className='btn btn-primary about__connect'>Let's connect</a>
         </article>

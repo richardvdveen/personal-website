@@ -32,13 +32,13 @@ const Contact = () => {
             <MdOutlineEmail className='contact__option-icon'/>
             <h3>Email</h3>
             <h5>contact@richardvanderveen.com</h5>
-            <a>Send a message</a>
+            <a href="mailto:contact@richardvanderveen.com">Send a message</a>
           </article>
 
           <article className='contact__option'>
             <FiPhoneCall className='contact__option-icon'/>
             <h3>+316 53877274</h3>
-            <a href="#">Call or send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=+31653877274">Call or send a message</a>
           </article>
 
         </div>
