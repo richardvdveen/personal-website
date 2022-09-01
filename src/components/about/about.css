@@ -44,9 +44,9 @@
 /* ================ MEDIA QUERIES (SMALL DEVICES) ====================== */
 @media screen and (max-width: 600px) {
     .about__me-image {
-        width: 20rem;
-        height: 20rem;
-        left: calc(50% - 10rem);
+        width: 15rem;
+        height: 15rem;
+        left: calc(50% - 7.5rem);
         margin-bottom: 2rem;
     }
 }

@@ -29,4 +29,7 @@ header {
 
 /* ================ MEDIA QUERIES (SMALL DEVICES) ====================== */
 @media screen and (max-width: 600px) {
+    h1 {
+        font-size: 3rem;
+    }
 }
